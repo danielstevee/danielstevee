@@ -20,10 +20,24 @@ Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergradu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 #### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-90%25-1f6feb?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-80%25-0d1117?style=for-the-badge&logo=laravel&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-161b22?style=for-the-badge&logo=javascript)
-![Figma](https://img.shields.io/badge/Figma-90%25-1f6feb?style=for-the-badge&logo=figma&logoColor=white)
+
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; width:100%;">
+
+<b style="color:#f39c12;">Design Grafis — 90%</b><br>
+<img src="https://img.shields.io/badge/██████████-90%25-f39c12?style=for-the-badge"/><br><br>
+<b style="color:#f39c12;">UI/UX — 80%</b><br>
+<img src="https://img.shields.io/badge/████████░░-80%25-f39c12?style=for-the-badge"/><br><br>
+<b style="color:#f39c12;">Frontend — 80%</b><br>
+<img src="https://img.shields.io/badge/████████░░-80%25-f39c12?style=for-the-badge"/><br><br>
+<b style="color:#f39c12;">Backend — 70%</b><br>
+<img src="https://img.shields.io/badge/███████░░░-70%25-f39c12?style=for-the-badge"/><br><br>
+<b style="color:#f39c12;">Database — 65%</b><br>
+<img src="https://img.shields.io/badge/██████░░░░-65%25-f39c12?style=for-the-badge"/><br><br>
+<b style="color:#f39c12;">Keamanan — 50%</b><br>
+<img src="https://img.shields.io/badge/█████░░░░░-50%25-f39c12?style=for-the-badge"/>
+
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
