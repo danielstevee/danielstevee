@@ -19,4 +19,11 @@ Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergradu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-90%25-1f6feb?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-80%25-0d1117?style=for-the-badge&logo=laravel&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-161b22?style=for-the-badge&logo=javascript)
+![Figma](https://img.shields.io/badge/Figma-90%25-1f6feb?style=for-the-badge&logo=figma&logoColor=white)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
