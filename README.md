@@ -20,7 +20,7 @@ Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergradu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 #### 🛠 Tech Stack
-![Design Grafis](https://img.shields.io/badge/Design%20Grafis-90%25-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
+![UI/UX](https://img.shields.io/badge/Design%20Grafis-90%25-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![FrontEnd](https://img.shields.io/badge/Design%20Grafis-80%25-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![BackEnd](https://img.shields.io/badge/Design%20Grafis-75%25-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
