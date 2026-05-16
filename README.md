@@ -1,6 +1,28 @@
 # Daniel Steven Setyawan
 ## 💫 About Me:
-Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergraduate student at the Faculty of Engineering, Universitas Negeri Surabaya.<br><br>💻 2+ years of experience in Frontend Development and 5+ years in Graphic Design, combining technical problem-solving with strong visual creativity.<br><br>🚀 Passionate about Software Engineering (RPL) and Frontend–Backend Development, focused on building efficient, scalable, and user-friendly digital solutions.<br>🤝 Actively involved in both internal and external organizations to enhance leadership and collaboration skills.
+# 👋 Hi, I’m Daniel Steven Setyawan (20)
+
+An Informatics Engineering undergraduate student at the Faculty of Engineering, Universitas Negeri Surabaya.
+
+---
+
+## 💻 Web Development Experience
+I have **2+ years of experience in Web Development**, building programs and platforms that focus on functionality, performance, and user experience.
+
+---
+
+## 🎨 Graphic Design Experience
+I also have **5+ years of experience in Graphic Design**, which strengthens my ability to create visually appealing and user-friendly web interfaces.
+
+---
+
+## 🚀 Passion
+I am passionate about **Web Development (Frontend & Backend)**, with a strong focus on building efficient, scalable, and aesthetically well-designed digital solutions that combine logic and creativity.
+
+---
+
+## 🤝 Organization & Soft Skills
+Actively involved in both internal and external organizations to improve leadership, teamwork, and communication skills.
 
 
 ## 🌐 Socials:
