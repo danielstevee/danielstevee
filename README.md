@@ -7,6 +7,8 @@ Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergradu
 🚀 Passionate about Web Development (Frontend & Backend), focused on building efficient, scalable, and user-friendly digital solutions that combine logic, function, and design.<br><br>
 
 🤝 Actively involved in both internal and external organizations to enhance leadership, teamwork, and collaboration skills.
+## 🌐 Portfolio:
+https://daniel-portfolio-fawn-eight.vercel.app/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/xc9CFdaU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stvn.daniell?igsh=b3JrcW1xbWRtczlt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-steven-setyawan-63280b333/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://id.pinterest.com/nifangzuo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/onlynielle) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@nifang6557) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24051204042@mhs.unesa.ac.id) 
