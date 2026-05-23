@@ -7,7 +7,8 @@ Hi, I’m Daniel Steven Setyawan (20) 👋 An Informatics Engineering undergradu
 🚀 Passionate about Web Development (Frontend & Backend), focused on building efficient, scalable, and user-friendly digital solutions that combine logic, function, and design.<br><br>
 
 🤝 Actively involved in both internal and external organizations to enhance leadership, teamwork, and collaboration skills.
-## 🌐 Portfolio:
+
+## 🔗 Portfolio:
 https://daniel-portfolio-fawn-eight.vercel.app/
 
 ## 🌐 Socials:
